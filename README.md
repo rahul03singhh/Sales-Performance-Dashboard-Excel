@@ -21,3 +21,10 @@ Excel: Advanced formulas (SUMIFS, VLOOKUP), Data Validation, and Pivot Tables.
 Data Cleaning: Handled inconsistencies in date formats and categorical labels.
 
 Data Visualization: Designed an interactive dashboard with Slicers, Donut Charts, and Trend Lines for executive reporting.
+
+Files:
+- Dataset (CSV)
+- Summary Table(excel file)
+- Dashboard (PNG)
+
+
